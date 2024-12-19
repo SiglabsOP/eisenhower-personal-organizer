@@ -31,8 +31,8 @@ This software is released under the FPA General Code License.
  
   
  virustotal for the exe: MD5 34fc77178504f0145be049428789c93b
- (5 false positives and 65 passed)
-https://www.virustotal.com/gui/file/fa628738993825269cb79ba35970038dfacc6f2ef6a5b33ccd55bf03ac2528bc/details
+ (12 false positives and 58 passed)
+https://www.virustotal.com/gui/file/fa628738993825269cb79ba35970038dfacc6f2ef6a5b33ccd55bf03ac2528bc
  
  
  
